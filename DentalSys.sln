@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6FE8DF3F-B984-41A9-8190-34CB0E011D36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DentalSys.Api", "DentalSys.Api\DentalSys.Api.csproj", "{B5FA3561-BC8F-4DF4-BEBF-829AC864BBB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5FA3561-BC8F-4DF4-BEBF-829AC864BBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5FA3561-BC8F-4DF4-BEBF-829AC864BBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5FA3561-BC8F-4DF4-BEBF-829AC864BBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5FA3561-BC8F-4DF4-BEBF-829AC864BBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B5FA3561-BC8F-4DF4-BEBF-829AC864BBB7} = {6FE8DF3F-B984-41A9-8190-34CB0E011D36}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BC625C9-D58B-4676-92A1-B56F88ABA545}
+	EndGlobalSection
+EndGlobal
